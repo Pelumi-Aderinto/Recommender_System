@@ -22,7 +22,7 @@ movielens_analysis/
 ├── README.md
 └── setup.py
 
-
+```
 python main.py --task download
 python main.py --task preprocess
 python main.py --task train_biases
@@ -32,3 +32,4 @@ python main.py --task train_new_user
 python main.py --task search_movies
 python main.py --task top_predictions
 python main.py --task train_feature_embeddings
+```
